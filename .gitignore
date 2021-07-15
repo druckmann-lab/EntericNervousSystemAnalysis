@@ -1,0 +1,10 @@
+data/*
+log/*
+.nfs*
+recycle/*
+nohup*
+__pycache__/*
+.ipynb_checkpoints/*
+dataframe/*
+JupyterLocal/*
+temp/*
