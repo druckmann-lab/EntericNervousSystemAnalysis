@@ -16,4 +16,4 @@
 
 ## Data
 - Save all the csv files in the Data directory.
-- The default path is ../Data/, but you may change it in `.ipynb` files.
+- The default path is `../Data/first` for Ryan's data, and `../Data/stripe_development_20210517` for Lori's data. You may change them in `.ipynb` files.
